@@ -1,7 +1,7 @@
-# Calculus Review for an Undergraduate Probability Course
-Welcome! This repository contains comprehensive calculus review materials specifically designed to prepare one for an undergraduate probability course. The materials help refresh knowledge from the univariate and multivariate calculus courses, without assuming any knowledge on probability and statistics. 
+# Calculus Review for Undergraduate Probability Theory
+Welcome! This repository contains comprehensive calculus review materials specifically designed to prepare one for an undergraduate probability theory course. The materials help refresh knowledge from the univariate and multivariate calculus courses, without assuming any knowledge on probability and statistics. 
 
-The concepts here build sequentially—starting from function basics, fundamental univariate calculus and advancing to the bivariate techniques that are essential for the probability course. Even though the whole modules mention nothing about probability stuff, some contents and examples can serve as enlightment for several crucial concepts in probability theory.
+The contents here are built sequentially—starting from function basics, fundamental univariate calculus and advancing to the essential bivariate techniques for the course. Even though the whole modules mention nothing about probability stuff, some contents and examples can serve as enlightment for several crucial concepts in probability theory.
 
 ### Table of Contents
 
