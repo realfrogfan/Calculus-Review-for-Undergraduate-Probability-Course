@@ -71,9 +71,13 @@ Solve $\int x e^x \, dx$:
 - Let $u = x \rightarrow$ $du = dx$
 - Let $dv = e^x dx \rightarrow$ $v = e^x$
 
-2.  Apply Formula: $$ \int x e^x \, dx = xe^x - \int e^x \, dx $$
+2.  Apply Formula:
 
-3.  Result: $$ \int x e^x \, dx = xe^x - e^x $$
+$$ \int x e^x \, dx = xe^x - \int e^x \, dx $$
+
+3.  Result:
+
+$$ \int x e^x \, dx = xe^x - e^x $$
 
 Note that we omit the integration constant $C$ here.
 
@@ -88,15 +92,19 @@ Solve $\int x^2 e^x \, dx$:
 
 - Let $u = x^2 \rightarrow$ $du = 2x \, dx$
 - Let $dv = e^x dx \rightarrow$  $v = e^x$
-- Apply Formula: $$ \int x^2 e^x \, dx = x^2 e^x - \int 2x e^x \, dx $$
+- Apply Formula:
+
+$$ \int x^2 e^x \, dx = x^2 e^x - \int 2x e^x \, dx $$
 
 2.  We then need to solve the remaining integral $\int 2x e^x \, dx$.
     From Example 1, we know $\int x e^x \, dx = xe^x - e^x$. We can
     substitute this back in.
 
-3.  Final Calculation: $$
-    \begin{aligned}
-    \int x^2 e^x \, dx &= x^2 e^x - 2(xe^x - e^x) \\
-    &= x^2 e^x - 2xe^x + 2e^x
-    \end{aligned}
-    $$
+3.  Final Calculation:
+
+$$
+\begin{aligned}
+\int x^2 e^x \, dx &= x^2 e^x - 2(xe^x - e^x) \\
+&= x^2 e^x - 2xe^x + 2e^x
+\end{aligned}
+$$
